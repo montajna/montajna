@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🇮🇶 Montajna
 
-<!--
-**montajna/montajna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## National Iraqi Products Marketplace
 
-Here are some ideas to get you started:
+Montajna is a modern marketplace that connects Iraqi factories with consumers through one smart platform.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Founder
+
+Alaa Shakir Mahmoud Al-Zangana
+
+### Status
+
+🚧 Under Development
+
+### Platforms
+
+- Android
+- iOS
+- Web
+
+### Technologies
+
+- Flutter
+- Laravel
+- PostgreSQL
+
+### License
+
+MIT
